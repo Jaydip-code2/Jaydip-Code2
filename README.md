@@ -74,6 +74,12 @@ I started building real-world full-stack projects before completing my degree â€
 ![](https://nirzak-streak-stats.vercel.app/?user=Jaydip-code2&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydip-code2&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## ğŸ† GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jaydip-code2&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
