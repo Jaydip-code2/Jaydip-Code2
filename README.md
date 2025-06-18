@@ -21,7 +21,7 @@ const jaydip = {
     role: "Software Engineer Intern",
     company: "XcelCode Innovations LLP",
     education: "Bachelor's at BKNM University",
-    location: "India 🇮🇳",
+    location: "India",
     
     currentFocus: [
         "Building scalable web applications",
